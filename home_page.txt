@@ -1,1 +1,2 @@
 title:HomePage
+home_page_slider:feature 1/slider is almost ready.
