@@ -1,0 +1,2 @@
+home_page_contet: finished the content for the slider and finished the slider feature! :D
+
